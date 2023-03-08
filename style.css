@@ -118,20 +118,16 @@ h2{
 }
 .posts_block {
     max-width: 600px;
-    margin: 20 px auto;
+    margin: 20px auto;
 }
-.posts_block > h2 {
+.posts_block h2 {
     text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
+    
 }
 .posts_block-container > * {
     margin: 5px;
     padding: 10px;
     border-radius: 10px;
     background-color: pink;
-    justify-content: center;
 }
 
